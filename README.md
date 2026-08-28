@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sadeepaghost"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Sadeepa on GitHub" /></a>
+  <a href="https://github.com/SadeepaAmaranayake"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Sadeepa on GitHub" /></a>
   <a href="https://www.linkedin.com/in/sadeepa-amaranayake-7803a9292/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Sadeepa on LinkedIn" /></a>
   <a href="mailto:sadeepaamaranayake@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sadeepa" /></a>
 </p>
@@ -29,13 +29,13 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/SadeepaAmarnayake/IC-Marketplace-"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=sadeepaghost&repo=IC-Marketplace-&theme=github_dark&hide_border=true" alt="IC Marketplace repository" /></a>
-  <a href="https://github.com/sadeepaghost/chat-application"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=sadeepaghost&repo=chat-application&theme=github_dark&hide_border=true" alt="Chat application repository" /></a>
+  <a href="https://github.com/SadeepaAmarnayake/IC-Marketplace-"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=SadeepaAmaranayake&repo=IC-Marketplace-&theme=github_dark&hide_border=true" alt="IC Marketplace repository" /></a>
+  <a href="https://github.com/SadeepaAmaranayake/chat-application"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=sadeepaghost&repo=chat-application&theme=github_dark&hide_border=true" alt="Chat application repository" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sadeepaghost/smart-study-buddy"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=sadeepaghost&repo=smart-study-buddy&theme=github_dark&hide_border=true" alt="Smart Study Buddy repository" /></a>
-  <a href="https://github.com/sadeepaghost/my_portfolio"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=sadeepaghost&repo=my_portfolio&theme=github_dark&hide_border=true" alt="Portfolio repository" /></a>
+  <a href="https://github.com/SadeepaAmaranayake/smart-study-buddy"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=SadeepaAmaranayake&repo=smart-study-buddy&theme=github_dark&hide_border=true" alt="Smart Study Buddy repository" /></a>
+  <a href="https://github.com/sadeepaghost/my_portfolio"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=SadeepaAmaranayake&repo=my_portfolio&theme=github_dark&hide_border=true" alt="Portfolio repository" /></a>
 </p>
 
 ## 💻 Technology Stack
