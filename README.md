@@ -30,12 +30,12 @@
 
 <p align="center">
   <a href="https://github.com/SadeepaAmarnayake/IC-Marketplace-"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=SadeepaAmaranayake&repo=IC-Marketplace-&theme=github_dark&hide_border=true" alt="IC Marketplace repository" /></a>
-  <a href="https://github.com/SadeepaAmaranayake/chat-application"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=sadeepaghost&repo=chat-application&theme=github_dark&hide_border=true" alt="Chat application repository" /></a>
+  <a href="https://github.com/SadeepaAmaranayake/chat-application"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=SadeepaAmaranayake&repo=chat-application&theme=github_dark&hide_border=true" alt="Chat application repository" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/SadeepaAmaranayake/smart-study-buddy"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=SadeepaAmaranayake&repo=smart-study-buddy&theme=github_dark&hide_border=true" alt="Smart Study Buddy repository" /></a>
-  <a href="https://github.com/sadeepaghost/my_portfolio"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=SadeepaAmaranayake&repo=my_portfolio&theme=github_dark&hide_border=true" alt="Portfolio repository" /></a>
+  <a href="https://github.com/SadeepaAmaranayake/my_portfolio"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=SadeepaAmaranayake&repo=my_portfolio&theme=github_dark&hide_border=true" alt="Portfolio repository" /></a>
 </p>
 
 ## 💻 Technology Stack
@@ -74,7 +74,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=sadeepaghost&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&number_format=long" alt="Sadeepa's complete GitHub statistics" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sadeepaghost&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Sadeepa's most-used languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SadeepaAmaranayake&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Sadeepa's most-used languages" />
 </p>
 
 <h3 align="center">🔥 Total Contributions</h3>
