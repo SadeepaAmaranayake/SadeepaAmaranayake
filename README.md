@@ -29,7 +29,7 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/sadeepaghost/IC-Marketplace-"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=sadeepaghost&repo=IC-Marketplace-&theme=github_dark&hide_border=true" alt="IC Marketplace repository" /></a>
+  <a href="https://github.com/SadeepaAmarnayake/IC-Marketplace-"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=sadeepaghost&repo=IC-Marketplace-&theme=github_dark&hide_border=true" alt="IC Marketplace repository" /></a>
   <a href="https://github.com/sadeepaghost/chat-application"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=sadeepaghost&repo=chat-application&theme=github_dark&hide_border=true" alt="Chat application repository" /></a>
 </p>
 
