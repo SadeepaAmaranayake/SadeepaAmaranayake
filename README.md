@@ -73,7 +73,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=sadeepaghost&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&number_format=long" alt="Sadeepa's complete GitHub statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=SadeepaAmaranayake&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&number_format=long" alt="Sadeepa's complete GitHub statistics" />
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SadeepaAmaranayake&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Sadeepa's most-used languages" />
 </p>
 
