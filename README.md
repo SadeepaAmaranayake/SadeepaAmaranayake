@@ -85,9 +85,7 @@
 
 ## 📈 GitHub Contribution Overview
 
-<p align="center">
-  <img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sadeepa's GitHub contribution overview" />
-</p>
+[![Total GitHub Contributions](https://streak-stats.demolab.com?user=SadeepaAmaranayake&hide_current_streak=true&hide_longest_streak=true&card_width=700&card_height=180&border_radius=12&background=0D1117&border=30363D&sideNums=F0F6FC&sideLabels=58A6FF&dates=8B949E)](https://github.com/SadeepaAmaranayake)
 
 ## 🌐 Connect With Me
 
