@@ -77,12 +77,6 @@
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SadeepaAmaranayake&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Sadeepa's most-used languages" />
 </p>
 
-<h3 align="center">🔥 Total Contributions</h3>
-
-<p align="center">
-  <img width="70%" src="./assets/total-contributions.svg" alt="Sadeepa's total GitHub contributions" />
-</p>
-
 ## 📈 GitHub Contribution Overview
 
 [![Total GitHub Contributions](https://streak-stats.demolab.com?user=SadeepaAmaranayake&hide_current_streak=true&hide_longest_streak=true&card_width=700&card_height=180&border_radius=12&background=0D1117&border=30363D&sideNums=F0F6FC&sideLabels=58A6FF&dates=8B949E)](https://github.com/SadeepaAmaranayake)
