@@ -1,6 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="180" role="img" aria-label="190 total contributions">
-    <rect width="700" height="180" rx="12" fill="#0d1117" stroke="#30363d"/>
-    <text x="350" y="62" text-anchor="middle" fill="#58a6ff" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="600">Total GitHub Contributions</text>
-    <text x="350" y="125" text-anchor="middle" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="700">190</text>
-    <text x="350" y="153" text-anchor="middle" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="14">Across 4 contribution years</text>
-  </svg>
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="180" viewBox="0 0 700 180" role="img" aria-label="190 total GitHub contributions across 4 years">
+  <rect
+    x="1"
+    y="1"
+    width="698"
+    height="178"
+    rx="12"
+    fill="#0d1117"
+    stroke="#30363d"
+    stroke-width="2"
+  />
+
+  <text
+    x="350"
+    y="55"
+    text-anchor="middle"
+    fill="#8b949e"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+    font-size="16"
+    font-weight="600"
+    letter-spacing="0.3"
+  >
+    TOTAL GITHUB CONTRIBUTIONS
+  </text>
+
+  <text
+    x="350"
+    y="112"
+    text-anchor="middle"
+    fill="#f0f6fc"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+    font-size="46"
+    font-weight="700"
+  >
+    190
+  </text>
+
+  <text
+    x="350"
+    y="145"
+    text-anchor="middle"
+    fill="#8b949e"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+    font-size="14"
+  >
+    contributions across 4 years
+  </text>
+
+  <circle cx="330" cy="162" r="3" fill="#238636"/>
+  <text
+    x="340"
+    y="167"
+    fill="#58a6ff"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+    font-size="11"
+  >
+    GitHub Activity
+  </text>
+</svg>
+```
