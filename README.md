@@ -6,17 +6,25 @@
 
 <br/>
 
-<a href="https://github.com/SadeepaAmaranayake">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<div align="center">
 
-<a href="https://www.linkedin.com/in/sadeepa-amaranayake-7803a9292/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://github.com/SadeepaAmaranayake" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-SadeepaAmaranayake-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-<a href="mailto:sadeepaamaranayake@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/sadeepa-amaranayake-b123b0292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sadeepa_Amaranayake-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:sadeepaamaranayake@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://sadeepa-amaranayake.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+
+</div>
 
 <br/><br/>
 
@@ -135,30 +143,6 @@ My current focus is strengthening my full-stack foundation while building projec
 ```
 
 ---
-
-## 🤝 Let's Connect
-
-I'm interested in conversations around **software engineering, full-stack development, Web3, open-source projects and interesting technical ideas**.
-
-<div align="center">
-
-  <a href="https://github.com/SadeepaAmaranayake" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-SadeepaAmaranayake-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/sadeepa-amaranayake-b123b0292/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sadeepa_Amaranayake-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:sadeepaamaranayake@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-  <a href="https://sadeepa-amaranayake.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-
-</div>
 
 <br/>
 
