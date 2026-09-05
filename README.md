@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:03001C,35:301E67,70:5B2CFF,100:00C6FF&text=SADEEPA%20AMARANAYAKE&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Web3%20Explorer%20%E2%80%A2%20Builder&descAlignY=58&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:03001C,35:301E67,70:5B2CFF,100:00C6FF&text=SADEEPA%20AMARANAYAKE&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%E2%80%A2%20Builder&descAlignY=58&descSize=17&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+software+that+solves+real+problems;Exploring+Web3+%E2%80%A2+AI+%E2%80%A2+DevOps;Learning+how+scalable+systems+are+designed;Turning+ideas+into+working+products" alt="Typing SVG" />
 
@@ -86,11 +86,6 @@ My current focus is strengthening my full-stack foundation while building projec
 <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mongodb,mysql,postgres,sqlite&theme=dark"/>
 
 <br/><br/>
-
-<img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=black"/>
-
 </div>
 
 ### DevOps & Developer Tools
@@ -120,18 +115,6 @@ My current focus is strengthening my full-stack foundation while building projec
 <img width="70%" src="https://streak-stats.demolab.com?user=SadeepaAmaranayake&theme=github-dark-blue&hide_border=true&border_radius=10"/>
 
 </div>
-
----
-
-# 🌌 Contribution Galaxy
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SadeepaAmaranayake&bg_color=0D1117&color=8B5CF6&line=2563EB&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
 
 ## 🎯 Current Mission
 
