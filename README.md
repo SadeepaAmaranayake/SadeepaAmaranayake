@@ -30,28 +30,19 @@
 
 ```javascript
 const sadeepa = {
-    location: "Sri Lanka 🇱🇰",
     role: "Full-Stack Developer",
-
-    currentlyBuilding: "SadeepaElectronics IC Marketplace",
 
     interests: [
         "Full-Stack Development",
-        "Web3 & Blockchain",
         "Artificial Intelligence",
         "DevOps",
         "Scalable System Design"
     ],
 
     currentlyLearning: [
-        "Blockchain Architecture",
-        "Smart Contracts",
         "Docker & CI/CD",
         "System Design"
     ],
-
-    longTermGoal: "Blockchain Architect & Web3 Engineer",
-
     mindset: "Build. Break. Learn. Improve."
 };
 ```
@@ -59,74 +50,6 @@ const sadeepa = {
 I enjoy turning ideas into **working software**, understanding how systems behave behind the interface, and gradually moving deeper into **distributed systems DevOps and scalable architecture**.
 
 My current focus is strengthening my full-stack foundation while building projects that force me to learn something beyond another tutorial clone.
-
----
-
-## 🪐 What I'm Working On
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ SadeepaElectronics
-
-An **IC marketplace platform** built using the TALL stack.
-
-**Focus areas**
-
-- Laravel architecture
-- Livewire interfaces
-- Database design
-- Product management
-- Authentication
-- Marketplace workflows
-
-<a href="https://github.com/SadeepaAmaranayake/IC-Marketplace-">
-<strong>Explore Repository →</strong>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧭 Current Learning Orbit
-
-Right now I'm exploring:
-
-- Docker
-- GitHub Actions
-- Linux
-- Backend architecture
-- AI-assisted development
-- System design
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/SadeepaAmaranayake/IC-Marketplace-">
-<img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=SadeepaAmaranayake&repo=IC-Marketplace-&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/SadeepaAmaranayake/chat-application">
-<img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=SadeepaAmaranayake&repo=chat-application&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/SadeepaAmaranayake/smart-study-buddy">
-<img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=SadeepaAmaranayake&repo=smart-study-buddy&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/SadeepaAmaranayake/my_portfolio">
-<img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=SadeepaAmaranayake&repo=my_portfolio&theme=github_dark&hide_border=true"/>
-</a>
-
-</div>
 
 ---
 
@@ -209,8 +132,6 @@ Right now I'm exploring:
 02. Build production-style applications
 03. Learn scalable backend and system architecture
 04. Develop deeper DevOps knowledge
-05. Explore blockchain infrastructure and smart contracts
-06. Progress toward Web3 architecture
 ```
 
 ---
@@ -221,17 +142,21 @@ I'm interested in conversations around **software engineering, full-stack develo
 
 <div align="center">
 
-<a href="https://github.com/SadeepaAmaranayake">
-<img src="https://img.shields.io/badge/GitHub-SadeepaAmaranayake-181717?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://github.com/SadeepaAmaranayake" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-SadeepaAmaranayake-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/sadeepa-amaranayake-7803a9292/">
-<img src="https://img.shields.io/badge/LinkedIn-Sadeepa_Amaranayake-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+  <a href="https://www.linkedin.com/in/sadeepa-amaranayake-b123b0292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sadeepa_Amaranayake-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-<a href="mailto:sadeepaamaranayake@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:sadeepaamaranayake@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://sadeepa-amaranayake.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 
 </div>
 
